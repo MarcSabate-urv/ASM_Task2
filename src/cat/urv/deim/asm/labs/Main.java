@@ -2,8 +2,9 @@ package cat.urv.deim.asm.labs;
 /*
 import cat.urv.deim.asm.labs.core.Dalvik;
 import cat.urv.deim.asm.labs.factory.ActivityFactory;
-import cat.urv.deim.asm.labs.interfaces.IActivity;
 */
+import cat.urv.deim.asm.labs.interfaces.IActivity;
+
 import java.lang.reflect.InvocationTargetException;
 
 public class Main {
